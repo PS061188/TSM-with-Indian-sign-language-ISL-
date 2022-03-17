@@ -1,4 +1,4 @@
-## Temporal Shift Module for Jester Gesture Recognition 
+## Temporal Shift Module for Dynamic Indian Sign Language Recognition 
 
 According to [mit official code](https://github.com/mit-han-lab/temporal-shift-module), 
 we reduce and modify some codes for jester dataset.
@@ -12,11 +12,8 @@ we reduce and modify some codes for jester dataset.
 
 ### Data Preparation
 
-Firstly, we need to download the [Jester](https://20bn.com/datasets/jester/v1) dataset. 
-Then, we process the data and generate corresponding labels. 
-Finally, we get category.txt, train_videofolder.txt, val_videofolder.txt and test_videofolder.txt documents.
-
-`python3 datas/generate_label.py`
+The BharatDSL dataset is not open yet. 
+The dataset has to be downloaded and then is accessed using the .csv files at location datas/BharatDSL/
 
 ### Train and Validate
 
