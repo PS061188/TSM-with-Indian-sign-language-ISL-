@@ -1,0 +1,120 @@
+Train: epoch-0 (200/323)	batch_time 0.15		data_time 0.01		loss 3.334	prec@1 16.78	
+Validate: Prec@1 61.35  Loss 1.338
+Best Prec@1: 61.35
+
+Train: epoch-1 (200/323)	batch_time 0.14		data_time 0.01		loss 1.656	prec@1 50.84	
+Validate: Prec@1 81.96  Loss 0.576
+Best Prec@1: 81.96
+
+Train: epoch-2 (200/323)	batch_time 0.14		data_time 0.01		loss 1.144	prec@1 66.09	
+Validate: Prec@1 89.42  Loss 0.331
+Best Prec@1: 89.42
+
+Train: epoch-3 (200/323)	batch_time 0.14		data_time 0.02		loss 0.735	prec@1 78.50	
+Validate: Prec@1 90.05  Loss 0.316
+Best Prec@1: 90.05
+
+Train: epoch-4 (200/323)	batch_time 0.14		data_time 0.01		loss 0.653	prec@1 79.75	
+Validate: Prec@1 95.26  Loss 0.153
+Best Prec@1: 95.26
+
+Train: epoch-5 (200/323)	batch_time 0.14		data_time 0.02		loss 0.522	prec@1 83.62	
+Validate: Prec@1 94.40  Loss 0.210
+Best Prec@1: 95.26
+
+Train: epoch-6 (200/323)	batch_time 0.14		data_time 0.02		loss 0.406	prec@1 87.88	
+Validate: Prec@1 95.33  Loss 0.137
+Best Prec@1: 95.33
+
+Train: epoch-7 (200/323)	batch_time 0.14		data_time 0.02		loss 0.370	prec@1 88.78	
+Validate: Prec@1 90.98  Loss 0.275
+Best Prec@1: 95.33
+
+Train: epoch-8 (200/323)	batch_time 0.14		data_time 0.01		loss 0.304	prec@1 90.81	
+Validate: Prec@1 97.12  Loss 0.110
+Best Prec@1: 97.12
+
+Train: epoch-9 (200/323)	batch_time 0.14		data_time 0.02		loss 0.268	prec@1 92.06	
+Validate: Prec@1 96.35  Loss 0.125
+Best Prec@1: 97.12
+
+Train: epoch-10 (200/323)	batch_time 0.14		data_time 0.01		loss 0.306	prec@1 91.12	
+Validate: Prec@1 95.65  Loss 0.144
+Best Prec@1: 97.12
+
+Train: epoch-11 (200/323)	batch_time 0.14		data_time 0.02		loss 0.217	prec@1 93.09	
+Validate: Prec@1 95.41  Loss 0.137
+Best Prec@1: 97.12
+
+Train: epoch-12 (200/323)	batch_time 0.14		data_time 0.01		loss 0.227	prec@1 93.41	
+Validate: Prec@1 96.42  Loss 0.135
+Best Prec@1: 97.12
+
+Train: epoch-13 (200/323)	batch_time 0.14		data_time 0.02		loss 0.206	prec@1 93.69	
+Validate: Prec@1 97.98  Loss 0.074
+Best Prec@1: 97.98
+
+Train: epoch-14 (200/323)	batch_time 0.14		data_time 0.01		loss 0.199	prec@1 94.06	
+Validate: Prec@1 97.05  Loss 0.101
+Best Prec@1: 97.98
+
+Train: epoch-15 (200/323)	batch_time 0.14		data_time 0.02		loss 0.166	prec@1 94.62	
+Validate: Prec@1 97.98  Loss 0.069
+Best Prec@1: 97.98
+
+Train: epoch-16 (200/323)	batch_time 0.14		data_time 0.01		loss 0.156	prec@1 95.06	
+Validate: Prec@1 97.67  Loss 0.066
+Best Prec@1: 97.98
+
+Train: epoch-17 (200/323)	batch_time 0.14		data_time 0.01		loss 0.158	prec@1 95.06	
+Validate: Prec@1 98.37  Loss 0.075
+Best Prec@1: 98.37
+
+Train: epoch-18 (200/323)	batch_time 0.14		data_time 0.02		loss 0.114	prec@1 96.97	
+Validate: Prec@1 98.76  Loss 0.049
+Best Prec@1: 98.76
+
+Train: epoch-19 (200/323)	batch_time 0.14		data_time 0.02		loss 0.067	prec@1 98.16	
+Validate: Prec@1 98.83  Loss 0.046
+Best Prec@1: 98.83
+
+Train: epoch-20 (200/323)	batch_time 0.14		data_time 0.01		loss 0.076	prec@1 97.97	
+Validate: Prec@1 99.14  Loss 0.037
+Best Prec@1: 99.14
+
+Train: epoch-21 (200/323)	batch_time 0.14		data_time 0.02		loss 0.067	prec@1 98.16	
+Validate: Prec@1 98.99  Loss 0.038
+Best Prec@1: 99.14
+
+Train: epoch-22 (200/323)	batch_time 0.14		data_time 0.02		loss 0.062	prec@1 98.25	
+Validate: Prec@1 98.99  Loss 0.035
+Best Prec@1: 99.14
+
+Train: epoch-23 (200/323)	batch_time 0.13		data_time 0.02		loss 0.054	prec@1 98.44	
+Validate: Prec@1 99.14  Loss 0.030
+Best Prec@1: 99.14
+
+Train: epoch-24 (200/323)	batch_time 0.14		data_time 0.01		loss 0.055	prec@1 98.56	
+Validate: Prec@1 98.91  Loss 0.033
+Best Prec@1: 99.14
+
+Train: epoch-25 (200/323)	batch_time 0.14		data_time 0.02		loss 0.045	prec@1 98.81	
+Validate: Prec@1 99.07  Loss 0.031
+Best Prec@1: 99.14
+
+Train: epoch-26 (200/323)	batch_time 0.14		data_time 0.02		loss 0.057	prec@1 98.38	
+Validate: Prec@1 98.91  Loss 0.033
+Best Prec@1: 99.14
+
+Train: epoch-27 (200/323)	batch_time 0.14		data_time 0.01		loss 0.052	prec@1 98.47	
+Validate: Prec@1 98.83  Loss 0.033
+Best Prec@1: 99.14
+
+Train: epoch-28 (200/323)	batch_time 0.14		data_time 0.01		loss 0.064	prec@1 98.00	
+Validate: Prec@1 98.91  Loss 0.035
+Best Prec@1: 99.14
+
+Train: epoch-29 (200/323)	batch_time 0.14		data_time 0.02		loss 0.043	prec@1 98.88	
+Validate: Prec@1 99.14  Loss 0.030
+Best Prec@1: 99.14
+
