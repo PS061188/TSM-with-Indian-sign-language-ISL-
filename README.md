@@ -5,10 +5,12 @@ we reduce and modify some codes for jester dataset.
 
 ### Prerequisites
 
-* Python 3.6
-* PyTorch 1.2
-* Opencv 3.4
-* Other packages can be found in ```requirements.txt```
+* cuda toolkit 10.2.0
+* Python 3.9
+* PyTorch 1.11.0
+* Opencv 3.5.5
+* gxx 11.2.0
+* numpy 1.21.2
 
 ### Data Preparation
 
